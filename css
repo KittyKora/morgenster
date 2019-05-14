@@ -1,0 +1,97 @@
+h1 {
+    color:rgb(247, 247, 240);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:70px;
+background-color: rgb(136, 133, 133);
+background-attachment: fixed;
+background-size: 4800px;
+margin-top: 100px;
+background-position: absolute;
+}
+
+body {
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+img.morgenster1.jpg {
+    width: 100px;
+    height: 100px;
+}
+
+img.morgenste2.jpg {
+    width: 100px;
+    height: 100px;
+}
+
+
+video london.mp4 
+{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  nav{
+    color: white;
+    background-color: black;
+    background-attachment: fixed;
+    border-left: 6px solid whitesmoke;
+}
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+
+  p {
+      background-color: azure;
+      background-attachment: fixed;
+  }
